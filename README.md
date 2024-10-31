@@ -7,4 +7,6 @@ cd ./nwaku-compose
 docker-compose logs nwaku -f
 ```
 ### 查看stats
-[http://localhost:3000/d/yns_4vFVk/nwaku-monitoring #]
+```
+http://localhost:3000/d/yns_4vFVk/nwaku-monitoring #
+```
