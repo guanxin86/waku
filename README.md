@@ -4,7 +4,7 @@
 ### 查看日志
 ```
 cd ./nwaku-compose
-docker-compose logs nwaku -f
+docker-compose logs -f nwaku
 ```
 ### 查看stats
 ```
