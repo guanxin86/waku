@@ -10,3 +10,5 @@ docker-compose logs -f nwaku
 ```
 http://localhost:3000/d/yns_4vFVk/nwaku-monitoring #
 ```
+### devnet2教程
+[guild](https://docs.pipe.network/devnet-2)
